@@ -69,6 +69,7 @@
     "rimraf": "^2.x",
     "sinon": "^6.3.5",
     "sinon-chai": "^3.2.0",
+    "sqlanywhere": "^1.0.24",
     "sqlite3": "^4.0.2",
     "tedious": "^3.0.1"
   },
